@@ -1,0 +1,8 @@
+body{
+	overflow-wrap: visible;
+	overflow: auto;
+}
+
+li{
+	font-size: 20px;
+}
